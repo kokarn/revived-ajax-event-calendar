@@ -1,2 +1,0 @@
-revived-ajax-event-calendar
-===========================
